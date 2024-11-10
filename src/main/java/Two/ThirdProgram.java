@@ -5,6 +5,12 @@ public class ThirdProgram {
         int number = 0b11010;
                 //2 + 8 + 16
         System.out.println();
+        double decimalniBroj = 1.234e2;
+        System.out.println(decimalniBroj);
+
+        int broj = 0x1a;
+        System.out.println(broj);
     }
+
 }
 
