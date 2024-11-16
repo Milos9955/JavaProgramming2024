@@ -18,7 +18,7 @@ public class SecondProgram {
         //32-bitni zapis
         int number = 23;
         //64-bitni TIP varijable = vrednost;
-        long longNumber = 234l;
+        long longNumber = 100l;
         // 1. 234 evaluira ili tretira kao integer 32-bitni celi broj
         // 2. automtsku konverzaciju tipa u 234 32-bitni -> 64 -bitni
         // 3. varibijalni longNumber cu upisati vrednost tog 64 bitni
